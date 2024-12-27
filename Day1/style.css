@@ -1,0 +1,30 @@
+h1{
+    color:brown;
+    text-align: center;
+    background-color: blanchedalmond;
+    font-style: italic;
+    border: 2px;
+    border-color: black;
+    border-style:solid;
+    border-radius: 12px;
+}
+table,th,td{
+    border: 2px black solid;
+}
+img{
+    width: 400px;
+    height: 200px;
+}
+#head{
+    color:black;
+}
+.part1{
+    background-color: lightpink;
+    color:aliceblue;
+    margin: 10px 30px 50px 70px;
+    padding: 30px;
+    background-image: url("https://i0.wp.com/picjumbo.com/wp-content/uploads/free-autumn-background-with-orange-leaves-and-space-for-text-free-image.jpeg?w=600&quality=80");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
